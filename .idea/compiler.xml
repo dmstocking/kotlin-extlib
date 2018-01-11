@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kotlin-extlib_main" target="1.8" />
+      <module name="kotlin-extlib_test" target="1.8" />
+      <module name="lib_main" target="1.8" />
+      <module name="lib_test" target="1.8" />
+      <module name="maybe_main" target="1.8" />
+      <module name="maybe_test" target="1.8" />
+      <module name="nullable_main" target="1.8" />
+      <module name="nullable_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
